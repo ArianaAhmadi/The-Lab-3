@@ -34,5 +34,5 @@ def descend(n): # defining the function descend to n
 
 a = input("Input any number: \n") #Prompt the user to input any number
 s= a.split() #split returns the list of the words in the string/line
-print(descend(s)) # prints the function descen and (s)
+print(descend(s)) # prints the function descend and (s)
 '''
